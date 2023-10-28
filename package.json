@@ -1,5 +1,5 @@
 {
-  "name": "gox-website",
+  "name": "gox",
   "version": "1.0.0",
   "description": "Website for the GoX Framework",
   "main": "index.js",
