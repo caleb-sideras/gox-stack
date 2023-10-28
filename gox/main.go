@@ -16,9 +16,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/caleb-sideras/goxstack/gox/data"
-	"github.com/caleb-sideras/goxstack/gox/render"
-	"github.com/caleb-sideras/goxstack/gox/utils"
+	"github.com/caleb-sideras/gox-website/gox/data"
+	"github.com/caleb-sideras/gox-website/gox/render"
+	"github.com/caleb-sideras/gox-website/gox/utils"
 	"github.com/gorilla/mux"
 )
 

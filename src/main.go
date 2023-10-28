@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/caleb-sideras/goxstack/gox"
-	"github.com/caleb-sideras/goxstack/src/global"
-	"github.com/caleb-sideras/goxstack/src/server"
+	"github.com/caleb-sideras/gox-website/gox"
+	"github.com/caleb-sideras/gox-website/src/global"
+	"github.com/caleb-sideras/gox-website/src/server"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"

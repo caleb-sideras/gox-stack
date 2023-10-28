@@ -3,9 +3,9 @@ package pages
 import (
 	"html/template"
 
-	"github.com/caleb-sideras/goxstack/gox/render"
-	"github.com/caleb-sideras/goxstack/src/global"
-	"github.com/caleb-sideras/goxstack/src/pages/docs"
+	"github.com/caleb-sideras/gox-website/gox/render"
+	"github.com/caleb-sideras/gox-website/src/global"
+	"github.com/caleb-sideras/gox-website/src/pages/docs"
 )
 
 func Render() render.DynamicT {

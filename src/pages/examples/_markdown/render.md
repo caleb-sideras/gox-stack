@@ -14,8 +14,8 @@ app
 package render
 
 import (
-	"github.com/caleb-sideras/goxstack/gox/render"
-	"github.com/caleb-sideras/goxstack/src/global"
+	"github.com/caleb-sideras/gox-website/gox/render"
+	"github.com/caleb-sideras/gox-website/src/global"
 	"html/template"
 )
 

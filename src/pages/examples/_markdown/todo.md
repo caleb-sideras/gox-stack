@@ -14,7 +14,7 @@ app
 ```go
 package todo
 
-import "github.com/caleb-sideras/goxstack/gox/render"
+import "github.com/caleb-sideras/gox-website/gox/render"
 
 func TodoSsr_() render.StaticF {
 	return render.StaticF{[]string{"app/todo/ssr.html"}, nil, "todo-ssr"}

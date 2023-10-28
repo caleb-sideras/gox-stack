@@ -1,8 +1,8 @@
 package todo
 
 import (
-	"github.com/caleb-sideras/goxstack/gox/data"
-	"github.com/caleb-sideras/goxstack/src/pages/examples"
+	"github.com/caleb-sideras/gox-website/gox/data"
+	"github.com/caleb-sideras/gox-website/src/pages/examples"
 )
 
 type Task struct {

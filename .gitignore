@@ -47,6 +47,7 @@ desktop.ini    # Windows
 static/css/*
 static/html/*
 static/js/*
+src/out
 
 bin/
 pkg/
