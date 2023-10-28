@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	gox "github.com/caleb-sideras/gox/.gox"
+	"github.com/caleb-sideras/gox/.gox"
 	"github.com/caleb-sideras/gox/src/global"
 	"github.com/caleb-sideras/gox/src/server"
 	"github.com/gorilla/mux"
