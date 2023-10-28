@@ -102,6 +102,12 @@
     <div class="flex flex-col lg:ml-drawer-width w-100">
 
       <script src="/static/js/prism.js"></script>
+      <script>
+        document.addEventListener('htmx:afterSwap', function (event) {
+          // Call Prism.highlightAll() after each htmx swap
+          Prism.highlightAll();
+        });
+      </script>
       <!--
  slide-up
 -->

@@ -44,9 +44,9 @@ desktop.ini    # Windows
 *.cache
 
 # Build files
-static/css/*
+static/css/output.css
 static/html/*
-static/js/*
+static/js/bundle.js
 src/out
 
 bin/
