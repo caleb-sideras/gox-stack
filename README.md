@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone --recursive https://github.com/caleb-sideras/gox.git
+   git clone --recursive https://github.com/caleb-sideras/gox-website.git
    ```
 
 2. Navigate to the project's directory.
@@ -71,9 +71,10 @@ To run the application for development, use the following commands:
    npm run build
    ```
 
-2. Building and running Go
+2. Building and running Go. Working on getting this to work properly with 'npm run build'.
 
    ```bash
+   cd src
    go run main.go build
    go run main.go run
    ```
