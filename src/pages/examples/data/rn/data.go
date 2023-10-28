@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/caleb-sideras/gox-website/gox/data"
+	"github.com/caleb-sideras/gox/.gox/data"
 )
 
 const randomOrgAPIURL = "https://www.random.org/integers/?num=1&min=1&max=100&col=1&base=10&format=plain"

@@ -1,8 +1,9 @@
 package home
 
 import (
-	"github.com/caleb-sideras/gox-website/gox/data"
 	"net/http"
+
+	"github.com/caleb-sideras/gox/.gox/data"
 )
 
 var Content HomeContent = HomeContent{

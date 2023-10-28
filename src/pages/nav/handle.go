@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/caleb-sideras/gox-website/gox/utils"
+	"github.com/caleb-sideras/gox/.gox/utils"
 )
 
 type Nav struct {
