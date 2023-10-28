@@ -130,17 +130,17 @@ var cards2 []HomeCard = []HomeCard{
 var cards4 []HomeCard = []HomeCard{
 	{
 		Title:       "gox-starter",
-		Description: template.HTML("The GoX starter-kit is open-source."),
-		Link:        "/",
+		Description: template.HTML("GoX is an open-source project and far from production ready. Feel free to contribute!"),
+		Link:        "https://github.com/caleb-sideras/gox-starter",
 	},
 	{
 		Title:       "gox-website",
-		Description: template.HTML("The code for this current website is public."),
-		Link:        "/",
+		Description: template.HTML("The code for this current website is public"),
+		Link:        "https://github.com/caleb-sideras/gox-website",
 	},
 	{
-		Title:       "TODOs",
-		Description: template.HTML("GoX is a new project and far from production ready. Feel free to help with the TODO's!"),
-		Link:        "/",
+		Title:       "Me",
+		Description: template.HTML("HMU on twitter"),
+		Link:        "https://twitter.com/sliderass",
 	},
 }
