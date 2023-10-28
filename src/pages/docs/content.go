@@ -1,7 +1,7 @@
 package docs
 
 import (
-	"github.com/caleb-sideras/gox-website/src/global"
+	"github.com/caleb-sideras/gox/src/global"
 )
 
 var VarLargeCards []global.LargeCard = []global.LargeCard{

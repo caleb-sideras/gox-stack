@@ -1,6 +1,6 @@
 package docs
 
-import "github.com/caleb-sideras/gox-website/src/global"
+import "github.com/caleb-sideras/gox/src/global"
 
 type DocsData struct {
 	ActiveTabId  string

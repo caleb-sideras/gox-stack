@@ -1,8 +1,8 @@
 package example_data
 
 import (
-	"github.com/caleb-sideras/gox-website/gox/data"
-	"github.com/caleb-sideras/gox-website/src/pages/examples"
+	"github.com/caleb-sideras/gox/.gox/data"
+	"github.com/caleb-sideras/gox/src/pages/examples"
 )
 
 type DataContent struct {

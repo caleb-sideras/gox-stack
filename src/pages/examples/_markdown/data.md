@@ -23,7 +23,7 @@ package todo
 
 import (
 	"net/http"
-	"github.com/caleb-sideras/gox-website/gox/data"
+	"github.com/caleb-sideras/gox/.gox/data"
 )
 
 func Data(w http.ResponseWriter, r *http.Request) data.PageReturn {

@@ -1,9 +1,10 @@
 package example_data
 
 import (
-	"github.com/caleb-sideras/gox-website/gox/render"
-	"github.com/caleb-sideras/gox-website/src/global"
 	"html/template"
+
+	"github.com/caleb-sideras/gox/.gox/render"
+	"github.com/caleb-sideras/gox/src/global"
 )
 
 func Code_() render.StaticT {

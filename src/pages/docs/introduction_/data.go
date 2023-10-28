@@ -1,9 +1,9 @@
 package introduction
 
 import (
-	"github.com/caleb-sideras/gox-website/gox/data"
-	"github.com/caleb-sideras/gox-website/src/global"
-	"github.com/caleb-sideras/gox-website/src/pages/docs"
+	"github.com/caleb-sideras/gox/.gox/data"
+	"github.com/caleb-sideras/gox/src/global"
+	"github.com/caleb-sideras/gox/src/pages/docs"
 )
 
 var content docs.DocsData = docs.DocsData{

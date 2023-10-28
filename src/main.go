@@ -1,13 +1,14 @@
 package main
 
 import (
-	"github.com/caleb-sideras/gox-website/gox"
-	"github.com/caleb-sideras/gox-website/src/global"
-	"github.com/caleb-sideras/gox-website/src/server"
-	"github.com/gorilla/mux"
 	"log"
 	"net/http"
 	"os"
+
+	gox "github.com/caleb-sideras/gox/.gox"
+	"github.com/caleb-sideras/gox/src/global"
+	"github.com/caleb-sideras/gox/src/server"
+	"github.com/gorilla/mux"
 )
 
 func main() {
